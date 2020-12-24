@@ -1,0 +1,2 @@
+# ShipWreck
+Welcome to the ultimate ship navigation software. This program allows you to captain your very own ship in the waters     and change directions. The mapping is depicted in the output box below RIMS and the controlled output is on port B and D.     You can change the direction of your ship, and the speed. You also have to get past obstacles in order to prevent your     ship from wrecking.
