@@ -30,6 +30,6 @@ The terminal will display warnings in the sea. Make sure to change directions so
 
 Functions:
 
-	This is the tree that represents the structure for the path for the ship. This is what builds the tick marks for the mapping of the ship in the output and basically what controls everything. What I did is make a struct with nodes for left, right, a direction switch, and a char variable that stores its tick mark. I assigned the nodes to each other to map out the diagram of what the ship path would look like while messing with the left and right switches. It basically goes through all the nodes and follows the path. Below the tree, you can see the code for the function that develops each node, memory, and mapping of the ship path. 
+This is the tree that represents the structure for the path for the ship. This is what builds the tick marks for the mapping of the ship in the output and basically what controls everything. What I did is make a struct with nodes for left, right, a direction switch, and a char variable that stores its tick mark. I assigned the nodes to each other to map out the diagram of what the ship path would look like while messing with the left and right switches. It basically goes through all the nodes and follows the path. Below the tree, you can see the code for the function that develops each node, memory, and mapping of the ship path. 
 
 https://www.youtube.com/watch?v=vEBBIri-gTs&t=247s
